@@ -1,5 +1,5 @@
 # FFXV WEAPONS LIST
-Used in this project Nuxt,Vuetify and javaScript <br>
+Used in this project Nuxt,Vuetify and JavaScript <br>
 
 ## Desc
 CRUD Data table with search bar and custom group-by
