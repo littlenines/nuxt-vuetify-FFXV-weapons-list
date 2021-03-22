@@ -1,5 +1,8 @@
-# CalorieTable
+# FFXV WEAPONS LIST
+Used in this project Nuxt,Vuetify and javaScript <br>
 
+## Desc
+CRUD Data table with search bar and custom group-by
 ## Build Setup
 
 ```bash
@@ -9,12 +12,6 @@ $ yarn install
 # serve with hot reload at localhost:3000
 $ yarn dev
 
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
