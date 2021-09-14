@@ -1,5 +1,5 @@
 # FFXV WEAPONS LIST
-Used in this project Nuxt,Vuetify and JavaScript <br>
+Used in this project Nuxt,Vuetify and Vue.js <br>
 
 ## Desc
 CRUD Data table with search bar that shows result as we type and custom group-by , this project was mainly for learning nuxt and vuetify
