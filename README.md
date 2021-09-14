@@ -2,7 +2,7 @@
 Used in this project Nuxt,Vuetify and Vue.js <br>
 
 ## Desc
-CRUD Data table with search bar that shows result as we type and custom group-by , this project was mainly for learning nuxt and vuetify
+CRUD Data table with search bar that shows result as we type and custom group-by , this project was mainly used for learning nuxt and vuetify
 
 ### Screenshot
 ![ScreenShot](https://github.com/littlenines/nuxt-vuetify-FFXV-weapons-list/blob/778701c5b2a902b9b051bc8e59f507452c0a74db/App_Look_Pictures/ffxv.png)
